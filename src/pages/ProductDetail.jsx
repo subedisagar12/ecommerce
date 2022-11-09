@@ -34,7 +34,7 @@ function ProductDetail() {
         </tr>
       </table>
 
-      <h4>Description</h4>
+      <h4>Descriptions</h4>
       <p>{singleProduct.detail}</p>
     </>
   );
