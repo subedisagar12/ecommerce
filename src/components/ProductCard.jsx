@@ -9,7 +9,7 @@ function ProductCard(props) {
           <h5 className="card-title">{props.name}</h5>
 
           <Link to={"/product/" + props.slug} className="btn btn-primary">
-            View Details
+            View 
           </Link>
         </div>
       </div>
